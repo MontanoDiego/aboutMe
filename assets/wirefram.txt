@@ -1,0 +1,17 @@
+FRAME
+
+
+
+- header img -          HEADER - name
+
+        - title of image
+            - img
+
+    - subtitle description of image
+
+    -alt paragraph
+
+- description of list
+    - item 1
+    - item 2
+    - item 3

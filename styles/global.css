@@ -1,6 +1,6 @@
 :root {
-    --background: rgb(224, 234, 247);
-    --header-background: rgb(254, 251, 245);
+    --background: rgb(145, 145, 145);
+    --header-background: rgb(200, 200, 200);
     --primary-font: Corbel, 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', 'DejaVu Sans',
         'Bitstream Vera Sans', 'Liberation Sans', Verdana, 'Verdana Ref', sans-serif;
 }
@@ -32,4 +32,25 @@ header .logo {
 
 main {
     padding: 20px;
+}
+
+p {
+    font-size: 40px;
+    text-align: center;
+}
+h2 {
+    font-size: 100px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+li {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+#me {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
